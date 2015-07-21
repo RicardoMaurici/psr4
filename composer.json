@@ -1,0 +1,7 @@
+{
+	"autoload": {
+		"psr-4":{
+			"psr4Test\\": "app/psr4Test"
+		}
+	}
+}
